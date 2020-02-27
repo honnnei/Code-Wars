@@ -15,7 +15,6 @@ while (counter < row_Index) {
   counter++;
   }
 return sum_of_row_Index_elements;
-
 }
 
 console.log(rowSumOddNumbers(2));
